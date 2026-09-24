@@ -12,7 +12,7 @@ html, body {
 }
 
 .hero {
-  background-image: url(landing_img.jpg); /*getting img from public folder*/
+  background-image: url(/landing_img.jpg); /*getting img from public folder*/
   background-size: cover;
   background-position: center;
   height: 100vh;

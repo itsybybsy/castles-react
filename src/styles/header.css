@@ -1,0 +1,29 @@
+.mainNav {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: rgba(255, 255, 255, 0) !important;
+    color: #fff;
+    border-bottom: 1px solid #fff;
+    width: 80%;
+    max-width: 1200px;
+    min-width: 300px;   /* optional */
+    padding: 15px 10px;
+    box-sizing: border-box;
+}
+
+.mainNavLink.MuiButton-root {
+    color: #fff !important;
+    font-family: "Poppins" !important;
+    font-size: 18px !important;
+    font-weight: 300 !important;
+    transition: all 0.3s ease;
+}
+
+.mainNavLink.MuiButton-root:hover {
+    color: #fff !important;
+    background-color: rgba(0,0,0,0.05) !important;
+    border-radius: 4px;
+}
+

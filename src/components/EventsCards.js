@@ -8,8 +8,8 @@ import Typography from '@mui/material/Typography';
 import Box from '@mui/material/Box';
 import Grid from '@mui/material/Grid';
 
-import TeaImg from "/src/images/teatime.jpg";
-import Ethicimg from "/src/images/ethics.jpg";
+import TeaImg from "./images/teatime.jpg";
+import Ethicimg from "./images/ethics.jpg";
 
 
 // Event Cards component, two cards next each other img + text with link 

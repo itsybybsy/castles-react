@@ -1,6 +1,6 @@
 import React from "react";
 import { Box, Container, Grid, Typography, Link } from "@mui/material";
-import LogoImg from "./images/logo_name.png"; 
+import LogoImg from "../images/logo_name.png"; 
 
 // Simple Footer with Link, Logo and Copyright
 

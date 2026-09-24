@@ -12,7 +12,7 @@ import MenuItem from "@mui/material/MenuItem";
 import InputBase from "@mui/material/InputBase";
 import SearchIcon from "@mui/icons-material/Search";
 
-import LogoImg from "/src/images/logo_name.png";
+import LogoImg from "./images/logo_name.png";
 
 // Responsive App Bar from MUI library, 
 // Navigation is edited a bit more in seperate css file header.css

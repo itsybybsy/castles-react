@@ -8,7 +8,9 @@ function LandingPage() {
 
    return (
       <>
-         <Box className="hero">
+         <Box className="hero" style={{
+    backgroundImage: `url(${process.env.PUBLIC_URL}/landing_img.jpg)`
+  }}>
             <Typography className="h1" variant="h1" component="h1">
                Slovakia Castles
             </Typography>

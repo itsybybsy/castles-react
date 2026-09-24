@@ -1,4 +1,4 @@
-import "/src/styles/app.css";
+import "./styles/app.css";
 import "/src/styles/header.css" // for responsive App Bar
 
 import {CssBaseline} from  "@mui/material";

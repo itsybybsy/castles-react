@@ -57,7 +57,7 @@ const Footer = () => {
         {/* Copyright line */}
         <Box mt={4} textAlign="center">
           <Typography variant="body2" color="white">
-            &copy; {new Date().getFullYear()} Barbora Mazuchova
+            &copy; {new Date().getFullYear()} Barbora M.
           </Typography>
         </Box>
       </Container>
